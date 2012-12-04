@@ -1,14 +1,14 @@
 #aliases
 
-unalias d
+unalias dr
 
-alias d='drush'
-alias ds='drush status'
-alias dcc='drush cc'
-alias dcca='drush cc all'
-alias dcct='drush cc theme-registry'
-alias ddl='drush pm-download'
-alias dd='drush pm-disable'
-alias de='drush pm-enable'
-alias dup='drush pm-update'
-alias dif='drush image-flush'
+alias dr='drush'
+alias drs='drush status'
+alias drcc='drush cc'
+alias drcca='drush cc all'
+alias drcct='drush cc theme-registry'
+alias drdl='drush pm-download'
+alias drd='drush pm-disable'
+alias dre='drush pm-enable'
+alias drup='drush pm-update'
+alias drif='drush image-flush'
