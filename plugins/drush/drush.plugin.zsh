@@ -1,7 +1,5 @@
 #aliases
 
-unalias dr
-
 alias dr='drush'
 alias drs='drush status'
 alias drcc='drush cc'
